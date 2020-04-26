@@ -42,7 +42,7 @@
     "lines": 10,
     "statements": 10,
     "functions": 10,
-    "branches": 10,
+    "branches": 4,
     "exclude": [
       "coverage/**/*.js",
       "commitlint.config.js",
@@ -94,7 +94,7 @@
     "gulp-eslint": "^6.0.0",
     "gulp-json-editor": "^2.5.4",
     "gulp-load-plugins": "^2.0.2",
-    "gulp-nodemon": "^2.4.2",
+    "gulp-nodemon": "^2.5.0",
     "gulp-rename": "^2.0.0",
     "husky": "^4.2.0",
     "mocha": "^7.0.0",
@@ -110,7 +110,7 @@
     "url": "https://"
   },
   "bugs": {
-    "url": ""
+    "url": "https://"
   },
   "homepage": "https://",
   "engines": {

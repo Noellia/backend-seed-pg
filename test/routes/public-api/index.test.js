@@ -1,12 +1,11 @@
-const {
-    request,
-    Sinon
-} = require('..');
-
+// const {
+//     request,
+//     Sinon
+// } = require('..');
 
 describe('public-api', () => {
-    it('should return true', done => {
-       true.should.be.equalTo(true);
-	done();
-    }
+    it('should return true', () => {
+        true.should.be.equal(true);
+
+    });
 });
